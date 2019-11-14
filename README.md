@@ -1,1 +1,1 @@
-# gs-bc2019-ambiente-e-conceitos
+# Go Stack 2019 - Ambiente e Conceitos
